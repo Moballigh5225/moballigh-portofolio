@@ -27,7 +27,7 @@ import {
 
 const Skills = () => {
   return (
-    <footer className="flex flex-wrap justify-between px-4 py-8 text-neutral-300">
+    <footer className="flex flex-wrap justify-between px-4 py-8 text-neutral-300 cursor-pointer">
       <ul className="w-full sm:w-1/2 md:w-1/3 lg:w-1/5 p-4">
         <h3 className="text-pink-500 mb-4 font-bold ">Languages</h3>
         <li className="mb-2 flex items-center hover:font-bold">
