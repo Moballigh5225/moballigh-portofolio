@@ -119,7 +119,7 @@ const Skills = () => {
       <ul className="w-full sm:w-1/2 md:w-1/3 lg:w-1/5 p-4">
         <h3 className="text-purple-500 mb-4 font-bold ">Version Control</h3>
         <li className="mb-2 flex items-center hover:font-bold">
-          <FaGithub className="inline mr-2 text-white text-2xl" />
+          <FaGithub className="inline mr-2 text-black text-2xl" />
           <span>Github</span>
         </li>
         <li className="mb-2 flex items-center hover:font-bold">
