@@ -23,7 +23,7 @@ const Navbar = () => {
         </a>
         <a
           className="resume font-bold text-sm p-2 transition ease-in-out delay-150 bg-blue-500 hover:-translate-1 hover:scale-110 duration-300 hover:shadow-lg hover:shadow-black"
-          href="https://drive.google.com/file/d/1QPtXkan402B1de8FOUzNXRHydVpQycfU/view?usp=sharing"
+          href="https://drive.google.com/file/d/1iXS20Tlz9bLooD_h3rvbiyuoRAjuZsHv/view?usp=sharing"
         >
           Resume
         </a>

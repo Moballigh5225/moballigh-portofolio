@@ -13,6 +13,7 @@ import {
   SiShadcnui,
   SiMonster,
   SiHeadlessui,
+  SiSanity,
 } from "react-icons/si";
 import {
   FaHtml5,
@@ -87,6 +88,10 @@ const Skills = () => {
         <li className="mb-2 flex items-center hover:font-bold">
           <RiSupabaseFill className="inline mr-2 text-green-400 text-2xl" />
           <span>Supabase</span>
+        </li>
+        <li className="mb-2 flex items-center hover:font-bold">
+          <SiSanity className="inline mr-2 text-red-400 text-2xl" />
+          <span>Sanity</span>
         </li>
       </ul>
       <ul className="w-full sm:w-1/2 md:w-1/3 lg:w-1/5 p-4">
