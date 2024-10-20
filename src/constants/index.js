@@ -19,7 +19,7 @@ export const EXPERIENCES = [
       "React.js",
       "Tailwind CSS",
       "Material UI",
-      "Zustand",
+      "Redux",
       "Next.js",
     ],
   },
